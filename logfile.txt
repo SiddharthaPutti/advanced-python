@@ -1,0 +1,6 @@
+add returned the value 130 
+add took 0.0 sec to execute  
+add returned the value 10030 
+add took 0.0 sec to execute  
+add returned the value 100000030 
+add took 0.3550224304199219 sec to execute  
